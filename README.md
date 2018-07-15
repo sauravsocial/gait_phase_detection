@@ -2,11 +2,11 @@
 Detection of two phases (swing and stance) phase from the IMU datasets.
 
 
-#Mount two IMU sensors , one above the  knee , the other below the knee.
+# Mount two IMU sensors , one above the  knee , the other below the knee.
 The subject should walk with a variable speed on the treadmill for atleast 2 minutes, so that every data of the each gait cycle is recorded.
 
 
-#Save the file as .csv
+# Save the file as .csv
 First file is the thigh data and the second file is the shank data.
 
 
