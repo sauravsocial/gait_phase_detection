@@ -16,3 +16,6 @@ I got correctly 2 correct phases from this approach ie, Swing phase and Stance p
 
 Compile and run the main.cpp file.
 The labelled data is saved in the data.dat file after closing the console window.
+
+
+# the sampling frequency of the IMU sensor is 200Hz
